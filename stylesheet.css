@@ -1,0 +1,72 @@
+.btn-xl {
+    padding: 18px 28px;
+    font-size: 22px;
+    border-radius: 8px;
+    height: 200px;
+    align-content: stretch;
+}
+.btn-lg{
+  width: 120px;
+  height: 60px;
+}
+.apple-avg-price{
+  font-size: 12px;
+}
+
+p  {
+  font-size: 12px;
+}
+p:nth-child(2) {
+    background: #ff0000;
+    font-size: 12px;
+}
+.slogan{
+    background-color: orange;
+    font-size: 12px;
+}
+.container{
+  padding-bottom: 30px;
+  text-align: center;
+}
+.jumbotron{
+  text-align: center;
+  background-color:
+  height: 225px;
+}
+.btnInfo{
+    padding-top:  10px;
+    display: inline-block;
+}
+img {
+  width: auto;
+  height: 60px;
+  display: block;
+  text-align: center;
+  margin: 0;
+  float: inherit;
+
+}
+.curtain{
+
+  display: none;
+  /*opacity: 0.8;
+  filter: alpha(opacity=30);*/
+
+  position: absolute;
+  content:"";
+  width:90%;
+  height:60%;
+  background:url();
+  background-repeat:no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+
+small{
+
+  display: none;
+
+}
+.total-money{
+  font-size: 30px;
+}
